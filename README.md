@@ -40,3 +40,6 @@ permalink: /
 **[Apply now!](http://bit.ly/tksw)**
 
 ![Relaxed](http://img.mrt.io/flickr/14049386300/n)
+
+## Questions?
+**[Ask here](https://github.com/xslim/yachtingweekend.com/issues)**
