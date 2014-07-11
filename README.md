@@ -12,7 +12,6 @@ permalink: /
 - Enjoying a sun by day and evening sunset
 - Stay on a modern 12 meter sailing boat in own cabin
 - Bring your friends or meet new (up to 10 ppl on the boat)
-- with kitchen, toilet & shower 
 
 ![Sailing boat](http://img.mrt.io/flickr/14041505627/n)
 
