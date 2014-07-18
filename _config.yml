@@ -6,7 +6,7 @@ pygments:         false
 permalink:        pretty
 
 # Setup
-title:            Yachting Weekend
+title:            Yachting weekend
 tagline:          Give your weekend some sailing
 url:              http://yachtingweekend.com
 baseurl:          /
