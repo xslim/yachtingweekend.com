@@ -27,6 +27,6 @@ permalink: /
 ## Contact
 - [yachtingweekend@kalapun.com](mailto://yachtingweekend@kalapun.com)
 - [Facebook page](http://fb.com/groups/yachtingweekend/)
-- Or **[Apply here](http://bit.ly/tksw)** if you'r ready :)
+- Or **[Apply here](http://bit.ly/tksw)** if you are ready :)
 
 ![Relaxed](http://img.mrt.io/flickr/14049386300/n)
