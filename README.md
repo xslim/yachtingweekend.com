@@ -3,7 +3,7 @@ layout: default
 permalink: /
 ---
 
-![Yachting Weekend](http://img.mrt.io/flickr/14041504787/z)
+![Yachting Weekend](images/featured.jpg)
 
 ## What
 - An unforgettable sailing experience
@@ -13,20 +13,20 @@ permalink: /
 - Stay on a modern 12 meter sailing boat in own cabin
 - Bring your friends or meet new (up to 10 ppl on the boat)
 
-![Sailing boat](http://img.mrt.io/flickr/14041505627/n)
+![Sailing boat](images/boat.jpg)
 
 ## Where
 - Netherlands, Noorth-holland, Enkhuizen
 - Markermeer & IJsselmeer lakes
 - 1 hour ride on train from Amsterdam
 
-![Enkhuizen](http://img.mrt.io/map/52.7001511,5.2974541,7)
+![Enkhuizen](images/map_enkhuizen_1.png)
 
-![Enkhuizen](http://img.mrt.io/map/52.7001511,5.2974541,13)
+![Enkhuizen](images/map_enkhuizen_2.png)
 
 ## Contact
 - [yachtingweekend@kalapun.com](mailto://yachtingweekend@kalapun.com)
 - [Facebook page](http://fb.com/groups/yachtingweekend/)
 - Or **[Apply here](http://bit.ly/tksw)** if you are ready :)
 
-![Relaxed](http://img.mrt.io/flickr/14049386300/n)
+![Relaxed](images/relaxed.jpg)
