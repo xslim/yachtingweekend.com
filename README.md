@@ -25,7 +25,7 @@ permalink: /
 ![Enkhuizen](images/map_enkhuizen_2.png)
 
 ## Contact
-- [yachtingweekend@kalapun.com](mailto://yachtingweekend@kalapun.com)
+- [yachtingweekend@kalapun.com](mailto:yachtingweekend@kalapun.com)
 - [Facebook page](http://fb.com/groups/yachtingweekend/)
 - Or **[Apply here](http://bit.ly/tksw)** if you are ready :)
 
